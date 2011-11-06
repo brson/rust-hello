@@ -1,2 +1,4 @@
 name: hello
-version: 0.1
+vers: 0.1
+hash-hello.rs: 3ae0ebe7b69d78afa6339c354d7deb41afb0d648c30bcc4c51b7379157df0612
+hash-Makefile: a34b1545a11079e532a98d3739ff3217298a60fe91bcde2c588f98161fe19165
