@@ -1,7 +1,9 @@
+use std;
+
 fn hello() -> str {
 	ret "Hello, World!";
 }
 
 fn main() {
-	log hello();
+	std::io::println(hello());
 }
