@@ -3,5 +3,5 @@ fn hello() -> str {
 }
 
 fn main() {
-	log hello();
+	log(info, hello());
 }
