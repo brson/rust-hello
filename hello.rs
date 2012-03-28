@@ -5,5 +5,5 @@ fn hello() -> str {
 }
 
 fn main() {
-	std::io::println(hello());
+	io::println(hello());
 }
